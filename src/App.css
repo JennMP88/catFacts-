@@ -2,11 +2,18 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.catFact {
+  border:1px solid black;
+  margin:10px 40px;
 }
 
+.button{
+  background-color: aqua;
+  color:white;
+  padding:10px 20px;
+  width:60px;
+  margin:0 auto;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
